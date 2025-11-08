@@ -1,25 +1,25 @@
 # MoonTV/LunaTV 配置编辑器（自用）
-https://hafrey1.github.io/LunaTV-config  
+https://vodtv.github.io/api
 
 --- 
 
 ##  MoonTV/LunaTV配置
 订阅使用：复制下面链接  
 
-👉 Base58编码订阅链接[精简版🎬源链接](https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jin18.txt)    （推荐使用自己部署的代理）精简版禁18源
+👉 Base58编码订阅链接[精简版🎬源链接](https://raw.githubusercontent.com/vodtv/api/refs/heads/main/jin18.txt)    （推荐使用自己部署的代理）精简版禁18源
 
 ```bash
 https://j18pz.hafrey.dpdns.org?config=0&encode=base58
 ```
 ```bash
-https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jin18.txt
+https://raw.githubusercontent.com/vodtv/api/refs/heads/main/jin18.txt
 ```
-👉 Base58编码订阅链接[精简版🎬+🔞源链接](https://jjpz.hafrey.dpdns.org?config=0&encode=base58) （推荐使用自己部署的代理）精简版剔除无搜索结果和污染搜索结果源                             
+👉 Base58编码订阅链接[精简版🎬+🔞源链接](https://https://mconfig.viptv.work?config=0&encode=base58) （推荐使用自己部署的代理）精简版剔除无搜索结果和污染搜索结果源                             
 ```bash
-https://jjpz.hafrey.dpdns.org?config=0&encode=base58
+https://https://mconfig.viptv.work?config=0&encode=base58
 ```
 ```bash
-https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jingjian.txt
+https://raw.githubusercontent.com/vodtv/api/refs/heads/main/jingjian.txt
 ```
 
 --- 
@@ -34,8 +34,8 @@ https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jingjian
 #   
   
 **部署代码：**  
-- [精简版代码](https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/CORSAPI/jingjian_worker.js)  
-- [禁18版代码](https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/CORSAPI/jin18_worker.js)
+- [精简版代码](https://raw.githubusercontent.com/vodtv/api/refs/heads/main/CORSAPI/jingjian_worker.js)  
+- [禁18版代码](https://raw.githubusercontent.com/vodtv/api/refs/heads/main/CORSAPI/jin18_worker.js)
 
 ### 🧭 部署步骤
 1. 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/)  
@@ -179,7 +179,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬极速资源 | https://jszyapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬樱花资源 | https://m3u8.apiyhzy.com/api.php/provide/vod | 99 | 0 | 100.0% | 0 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 59 | 0 | 100.0% | 0 |
+| ✅ | 🎬百度云zy | https://https://mconfig.viptv.work/?url=https://api.apibdzy.com/api.php/provide/vod | 59 | 0 | 100.0% | 0 |
 | ✅ | 🎬红牛资源 | https://www.hongniuzy2.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬索尼资源 | https://suoniapi.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -209,7 +209,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞大地资源 | https://dadiapi.com/feifei2 | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞奶香资源 | https://Naixxzy.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞小鸡资源 | https://api.xiaojizy.live/provide/vod | 100 | 0 | 100.0% | 0 |
-| ✅ | 🔞杏吧资源 | https://jjpz.hafrey.dpdns.org/?url=https://xingba111.com/api.php/provide/vod | 91 | 0 | 100.0% | 0 |
+| ✅ | 🔞杏吧资源 | https://https://mconfig.viptv.work/?url=https://xingba111.com/api.php/provide/vod | 91 | 0 | 100.0% | 0 |
 | ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞玉兔资源 | https://apiyutu.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🔞番号资源 | http://fhapi9.com/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
@@ -229,7 +229,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞森林资源 | https://beiyong.slapibf.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞豆豆资源 | https://api.douapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞91-精品- | https://91jpzyw.com/api.php/provide/vod | 73 | 1 | 98.6% | 0 |
-| ✅ | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ✅ | 🎬如意资源 | https://https://mconfig.viptv.work/?url=https://cj.rycjapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞jkun资源 | https://jkunzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬卧龙影视 | https://collect.wolongzyw.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
@@ -241,6 +241,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 🚨 | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 81 | 9 | 90.0% | 9 |
 | 🚨 | 🎬豪华资源 | https://hhzyapi.com/api.php/provide/vod | 0 | 6 | 0.0% | 6 |
 <!-- API_TABLE_END -->
+
 
 
 
