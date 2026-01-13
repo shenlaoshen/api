@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-01-13 13:31 CST）
+## API 状态（最近更新：2026-01-13 14:42 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：74
@@ -212,6 +212,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞麻豆视频 | https://91md.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬最大点播 | https://zuidazy.me/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬最大资源 | https://api.zuidapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| ✅ | 🎬建安资源 | http://154.219.117.232:9981/jacloudapi.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬快车资源 | https://caiji.kuaichezy.org/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬暴风资源 | https://bfzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬索尼资源 | https://suoniapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
@@ -224,7 +225,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞--AIvin- | http://lbapiby.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 🎬建安资源 | http://154.219.117.232:9981/jacloudapi.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
