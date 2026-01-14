@@ -153,7 +153,7 @@ if (configParam === '1') {
 // -------------------- JSON 配置（原始，不加前缀） config=0 --------------------
 if (configParam === '0') {
   try {
-    const jsonUrl = 'https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/jingjian.json'
+    const jsonUrl = 'https://raw.githubusercontent.com/shenlaoshen/LunaTV-config/main/jingjian.json'
     const response = await fetch(jsonUrl)
     const data = await response.json()
 
