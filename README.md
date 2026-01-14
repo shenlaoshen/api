@@ -1,12 +1,12 @@
 # MoonTV/LunaTV 配置编辑器（自用）
-https://vodtv.github.io/api
+[https://vodtv.github.io/api](https://shenlaoshen.github.io/api/)
 
 --- 
 
 ##  MoonTV/LunaTV配置
 订阅使用：复制下面链接  
 
-👉 Base58编码订阅链接[精简版🎬源链接](https://raw.githubusercontent.com/vodtv/api/refs/heads/main/jin18.txt)    （推荐使用自己部署的代理）精简版禁18源
+👉 Base58编码订阅链接[精简版🎬源链接](https://raw.githubusercontent.com/shenlaoshen/api/refs/heads/main/jin18.txt)    （推荐使用自己部署的代理）精简版禁18源
 
 ```bash
 https://j18pz.hafrey.dpdns.org?config=0&encode=base58
@@ -14,7 +14,7 @@ https://j18pz.hafrey.dpdns.org?config=0&encode=base58
 ```bash
 https://raw.githubusercontent.com/vodtv/api/refs/heads/main/jin18.txt
 ```
-👉 Base58编码订阅链接[精简版🎬+🔞源链接](https://https://mconfig.viptv.work?config=0&encode=base58) （推荐使用自己部署的代理）精简版剔除无搜索结果和污染搜索结果源                             
+👉 Base58编码订阅链接[精简版🎬+🔞源链接](https://https://mconfig.shenlaoshen.work?config=0&encode=base58) （推荐使用自己部署的代理）精简版剔除无搜索结果和污染搜索结果源                             
 ```bash
 https://https://mconfig.viptv.work?config=0&encode=base58
 ```
@@ -34,8 +34,8 @@ https://raw.githubusercontent.com/vodtv/api/refs/heads/main/jingjian.txt
 #   
   
 **部署代码：**  
-- [精简版代码](https://raw.githubusercontent.com/vodtv/api/refs/heads/main/CORSAPI/jingjian_worker.js)  
-- [禁18版代码](https://raw.githubusercontent.com/vodtv/api/refs/heads/main/CORSAPI/jin18_worker.js)
+- [精简版代码](https://raw.githubusercontent.com/shenlaoshen/api/refs/heads/main/CORSAPI/jingjian_worker.js)  
+- [禁18版代码](https://raw.githubusercontent.com/shenlaoshen/api/refs/heads/main/CORSAPI/jin18_worker.js)
 
 ### 🧭 部署步骤
 1. 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/)  
@@ -241,3 +241,4 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 🚨 | 🔞最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🔞杏吧资源 | https://jjpz.hafrey.dpdns.org/?url=https://xingba111.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 <!-- API_TABLE_END -->
+
