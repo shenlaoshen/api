@@ -1,5 +1,5 @@
 # MoonTV/LunaTV 配置编辑器（自用）
-[https://vodtv.github.io/api](https://shenlaoshen.github.io/api/)
+https://shenlaoshen.github.io/api/
 
 --- 
 
@@ -241,4 +241,5 @@ https://api.example.workers.dev/?config=1&encode=base58
 | 🚨 | 🔞最色资源 | https://api.zuiseapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🔞杏吧资源 | https://jjpz.hafrey.dpdns.org/?url=https://xingba111.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 <!-- API_TABLE_END -->
+
 
