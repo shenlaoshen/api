@@ -127,7 +127,7 @@ async function handleRequest(request) {
 // -------------------- JSON 配置 + API 前缀替换 + Base58 --------------------
 if (configParam === '1') {
   try {
-    const jsonUrl = 'https://raw.githubusercontent.com/hafrey1/LunaTV-config/main/jingjian.json'
+    const jsonUrl = 'https://raw.githubusercontent.com/shenlaoshen/LunaTV-config/main/jingjian.json'
     const response = await fetch(jsonUrl)
     const data = await response.json()
     const newData = addOrReplacePrefix(data, prefixParam || defaultPrefix)
